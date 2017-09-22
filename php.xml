@@ -1,9 +1,0 @@
-<application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/Applications/MAMP/bin/php/php7.0.8/bin/php" id="24fef086-14f1-4506-bafb-010c86066a36" name="PHP 7.0" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/bin/php" id="f5cb78b1-8765-4894-88ea-801264b37d78" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php71/7.1.8_20/bin/php" id="2a8a090f-841f-4aea-b960-3ce1d9b2fdd6" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
-</application>
