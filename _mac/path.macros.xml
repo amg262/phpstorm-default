@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="OutputPath" value="/Applications/MAMP/htdocs/wordpress/app/nmop" />
+  </component>
+</application>
