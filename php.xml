@@ -1,0 +1,8 @@
+<application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="/Applications/MAMP/bin/php/php7.0.8/bin/php" id="d41673f6-0462-41b5-b3ad-a88fa1a43401" name="PHP71" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/bin/php" id="d0fb63d8-ccdf-452b-a543-7876ddfcafc0" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+</application>
