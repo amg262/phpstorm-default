@@ -1,0 +1,262 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+      </component>
+      <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+        <pharConfigPath>C:\Users\Andy\composer.json</pharConfigPath>
+        <executablePath>C:\Users\Andy\vendor\autoload.php</executablePath>
+      </component>
+      <component name="CopyrightManager" default="AMG">
+        <copyright>
+          <option name="myName" value="AMG" />
+          <option name="notice" value="Copyright (c) &amp;#36;today.year.  NETRAA, LLC&#10;cloudsp.in  |  github.com/amg262&#10;&#10;&#10;" />
+        </copyright>
+        <copyright>
+          <option name="myName" value="AMG" />
+          <option name="notice" value="Copyright (c) &amp;#36;today.year.  NETRAA, LLC&#10;cloudsp.in  |  github.com/amg262&#10;&#10;&#10;" />
+        </copyright>
+        <copyright>
+          <option name="myName" value="Default" />
+          <option name="notice" value="Copyright (c) &amp;#36;today.year.  &#10;" />
+        </copyright>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="IGNORE_WARNINGS" value="true" />
+            <option name="CODING_STANDARD" value="Custom" />
+            <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/vendor/wp-coding-standards/wpcs/WordPress-VIP/ruleset.xml" />
+            <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="WEAK WARNING" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="Node.js Core" />
+      </component>
+      <component name="JsBowerSettings">
+        <node-interpreter value="project" />
+        <bower-package value="" />
+        <bower.json value="" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="MarkdownProjectSettings">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="false">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="COMMONMARK_LISTS" value="true" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_EMOJI_URL" value="false" />
+            <option name="GITHUB_LISTS" value="false" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="false" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$OutputPath$" cssDir="$OutputPath$/css" scriptDir="$OutputPath$/js" plainHtml="false" imageDir="$OutputPath$/img" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="PhingConfiguration">
+        <phingPath>$USER_HOME$/vendor/bin/phing.bat</phingPath>
+      </component>
+      <component name="PhpIncludePathManager">
+        <include_path>
+          <path value="C:\xampp\php\PEAR" />
+          <path value="C:\Users\Andy\vendor" />
+          <path value="C:\Users\Andy\node_modules" />
+          <path value="C:\Users\Andy\node_modules" />
+          <path value="C:\xampp\php" />
+          <path value="" />
+        </include_path>
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+      <component name="PhpTestFrameworkVersionCache">
+        <tools_cache>
+          <tool tool_name="Behat">
+            <cache>
+              <versions>
+                <info id="Local" version="3.4.3" />
+              </versions>
+            </cache>
+          </tool>
+          <tool tool_name="PHPSpec">
+            <cache>
+              <versions>
+                <info id="Local" version="4.2.5" />
+              </versions>
+            </cache>
+          </tool>
+          <tool tool_name="PHPUnit">
+            <cache>
+              <versions>
+                <info id="Local" version="6.5.4" />
+              </versions>
+            </cache>
+          </tool>
+        </tools_cache>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1">
+        <include_path>
+          <path value="C:\xampp\php\PEAR" />
+          <path value="C:\Users\Andy\vendor" />
+          <path value="C:\Users\Andy\node_modules" />
+          <path value="C:\Users\Andy\node_modules" />
+          <path value="C:\xampp\php" />
+          <path value="" />
+        </include_path>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Composer.json</id>
+              </State>
+              <State>
+                <id>File Watchers</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>Ignore</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Ignore</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="project.scopes" />
+        <property name="last_opened_file_path" value="C:/Program Files/nodejs/node_modules" />
+        <property name="javascript.nodejs.core.library.configured.version" value="8.9.1" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="node.js.path.for.package.tslint" value="project" />
+        <property name="node.js.selected.package.tslint" value="" />
+      </component>
+      <component name="TerminalProjectOptionsProvider">
+        <option name="myStartingDirectory" value="C:\xampp\htdocs" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>AMG</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.19875" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="MarkdownNavigator.LinkMap.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.19875" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
